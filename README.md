@@ -73,12 +73,11 @@ This is the CMOS circuit implementation of NOR Gate
 <p align="center">
  <img src ="https://user-images.githubusercontent.com/86653033/155886484-c246b868-9b72-4324-ad08-f874ce78ef8d.png">
   </p>
-This the D latch(modified) implementation where NOT gate is instantiated after symbolising the design in Synopsys tool</br>
-<br/>
+This the D latch(modified) implementation where NOR gate is being instantiated after symbolising the design in the tool</br>
 <p align="center">
 <img src ="https://user-images.githubusercontent.com/86653033/155876934-b2091c79-58f7-4a90-a96c-a6028b1dbbe7.png">
-  </p>
-This the PFD block which is implemented using D Latch and And Gate for providing Reset (R) control and the UP output is denoted by "QA" and DOWN is represented by "QB". ans is further symbolized using the tool.</br> CLKA represents the Reference clock</br> CLKB represens the Feedback signal </br>
+  </p></br>
+This the PFD block which is implemented using D Latch and And Gate for providing Reset (R) control and the UP output is denoted by "QA" and DOWN is represented by "QB". And further symbol of PFD is made.</br> CLKA represents the Reference clock</br> CLKB represens the Feedback signal </br>
 
  <p align="center">
 <img src ="https://user-images.githubusercontent.com/86653033/155877443-36e258a4-d65e-4ce1-8f64-b23a9a946abd.png">
