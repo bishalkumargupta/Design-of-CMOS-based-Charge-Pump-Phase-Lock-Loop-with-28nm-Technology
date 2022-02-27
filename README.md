@@ -123,6 +123,11 @@ This is the cascaded Block of VCO + CP + LPF + PFD blocks and the VCO output is 
  </br><p align="center">
 <img src ="https://user-images.githubusercontent.com/86653033/155878125-98fee578-135e-400f-a002-093a4ce1d658.png">
 </p></br>
+For the case1 the test bench for PFD block obtained is given here. similiarly the test bench for whole circuit was arranged
+<p align="center">
+<img src ="https://user-images.githubusercontent.com/86653033/155886700-286c2eac-4f59-4c3b-afe5-e70720e0d771.png">
+</p></br>
+
 Considering Case1 , when CP and LPF is being cascaded with the PFD block the simulation result is being pfovided</br>
 </br><p align="center">
 <img src ="https://user-images.githubusercontent.com/86653033/155884539-e1eec48f-3282-4c4c-8d16-817d6f0cc0a8.png">
