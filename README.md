@@ -143,7 +143,7 @@ The repository presents the design and simulation of CMOS based 28nm Technoogy C
 
 ## Author
 
-Bishal Kumar Gupta, M.tech at Defence Institute of Advanced Technology-DRDO with specialization in VLSI and Embedded Systems, Department of Electronics Engineering.
+Bishal Kumar Gupta, M.tech at Defence Institute of Advanced Technology-DRDO [in collaboration with NIELIT CALICUT] with specialization in VLSI and Embedded Systems, Department of Electronics Engineering.
 
 ## Acknowledgements
 
