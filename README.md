@@ -14,13 +14,12 @@
 - Acknowledgements
 - References
 ## Abstract
-CMOS based Phase Frequency Detector and charge
-pump is being Simulated and recorded on 28nm technology. LPF
-is also being cascaded and being studied. Phase frequency
-Detector plays a most important role in a PLL. PFD decides the
+CMOS based Chare Pump Phase Locked Loop is being Simulated and recorded on 28nm technology. Phase Frequency Detector, charge
+pump with LPF and Voltage controlled oscillator is being cascaded, studied and recorded in this work. Phase frequency
+Detector(PFD) plays a most important role in a PLL. PFD decides the
 performance and accuracy of a PLL. Charge pump is also a major
-block for a PLL which translate frequency and phase into voltages
-used to tune VCO. PLL act as clock generator and is a non-linear
+block for a PLL which translate frequency and phase into voltages as DC codes with the help of LPF 
+used to tune VCO. Tuned VCO acts as local oscillator and hence generates frequecy proportionally. PLL act as clock generator and is a non-linear
 feedback system that tracks the phase of the input signal and
 minimise the phase error at the local oscillator. PLL has a wide
 range of application in modern and conventional electronics and
