@@ -127,7 +127,7 @@ Considering VCO the output of the CPLL is being shown</br>
 
 ## Conclusion
 
-The repository presents the design and simulation of CMOS based 28nm Technoogy Charg Pump Phase Locked Loop(CPPLL) having a operating frequency of 500MHz with operatibg voltade be 1.5V where the shematic and the waveforms are being produced here.
+The repository presents the design and simulation of CMOS based 28nm Technoogy Charg Pump Phase Locked Loop(CPPLL) having a operating frequency of 500MHz with operating voltage be 1.5V where the schematic and the waveforms are being produced here. With suitable strength of MOSFETS, noise clean outputs are being ectracted.
 
 ## Author
 
